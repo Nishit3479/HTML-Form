@@ -1,21 +1,21 @@
 body{
 	background: url("https://media.gettyimages.com/videos/abstract-light-blue-backgroundsloop-video-id1216013281?s=640x640") no-repeat center fixed;
-    background-size: cover;
+    	background-size: cover;
 }
 h1{
 	color:navy;
 	margin-left: 1px;
 }
 #bt {
-  background-color: navy; 
-  border: none;
-  color: white;
-  padding: 10px 20px;
-  border-radius: 12px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 14px;
+  	background-color: navy; 
+  	border: none;
+  	color: white;
+  	padding: 10px 20px;
+  	border-radius: 12px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 14px;
 }
 p{
 	font-size: 20px;
